@@ -1,0 +1,27 @@
+{
+    "id": "7045D3A8",
+    "path": "~/_School/2021-2022/Spring/Intro to Data and Text Mining LIS-4761/final/heart-disease/process_data.R",
+    "project_path": "process_data.R",
+    "type": "r_source",
+    "hash": "2142869544",
+    "contents": "",
+    "dirty": false,
+    "created": 1650485795456.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "12,25",
+        "scrollLine": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1650488038,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1650488038698,
+    "read_only": false,
+    "read_only_alternatives": []
+}
